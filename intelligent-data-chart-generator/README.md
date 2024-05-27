@@ -94,3 +94,6 @@ After you have completed the provision and deploy steps in `Deploy the app to Az
 ## Feedback
 
 We really appreciate your feedback! If you encounter any issue or error, please report issues to us following the [Supporting Guide](https://github.com/OfficeDev/TeamsFx-Samples/blob/dev/SUPPORT.md). Meanwhile you can make [recording](https://aka.ms/teamsfx-record) of your journey with our product, they really make the product better. Thank you!
+
+
+<!-- /testing with comment -->
